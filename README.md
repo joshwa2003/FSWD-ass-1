@@ -1,2 +1,1 @@
-# FSWD-ass-1
-Project regarding HTML CSS webpage
+full stack web development assignment 1
